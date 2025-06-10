@@ -1,0 +1,6 @@
+<TableView fx:id="tvReferents">
+    <columns>
+        <TableColumn fx:id="tcNomReferent" text="Nom" />
+        <TableColumn fx:id="tcPrenomReferent" text="Prénom" />
+    </columns>
+</TableView>
